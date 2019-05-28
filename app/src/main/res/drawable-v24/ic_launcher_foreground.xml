@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="5dba6f39-3eb8-41f6-9c06-918ddde89359" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FUSProjectUsageTrigger">
+        <session id="1635540831">
+            <usages-collector id="statistics.lifecycle.project">
+                <counts>
+                    <entry
+                        key="project.open.time.3"
+                        value="1" />
+                    <entry
+                        key="project.opened"
+                        value="1" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.open">
+                <counts>
+                    <entry
+                        key="java"
+                        value="1" />
+                    <entry
+                        key="xml"
+                        value="2" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.open">
+                <counts>
+                    <entry
+                        key="JAVA"
+                        value="1" />
+                    <entry
+                        key="XML"
+                        value="2" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.edit">
+                <counts>
+                    <entry
+                        key="java"
+                        value="8" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.edit">
+                <counts>
+                    <entry
+                        key="JAVA"
+                        value="8" />
+                </counts>
+            </usages-collector>
+        </session>
+    </component>
+    <component name="FileEditorManager">
+        <leaf>
+            <file p

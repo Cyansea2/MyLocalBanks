@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/websiteSelection"
+        android:orderInCategory="100"
+        android:title="Website" />
+    <item
+        android:id="@+id/callSelection"
+        android:orderInCategory="101"
+        android:title="Contact the bank" />
+
+</menu>
